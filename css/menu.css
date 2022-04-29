@@ -49,6 +49,9 @@ table {
 
 * {
     box-sizing: border-box;
+    color: rgb(225, 239, 230);
+    background: rgb(0, 4, 17);
+    background-color: rgb(0, 4, 17, .8);
 }
 
 html {
